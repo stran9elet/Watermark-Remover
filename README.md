@@ -1,6 +1,6 @@
 # Watermark Remover
 
-A tool for removing watermarks from an image. Note that it currently just works with images, but can be easily modified to remove watermarks from pdfs, etc.
+A tool for removing watermarks from an image using OpenCV and scikit-learn's K-Means clustering. Note that it currently just works with images, but can be easily modified to remove watermarks from pdfs, etc.
 
 Example->
 
